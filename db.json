@@ -121,20 +121,6 @@
       "id": 6
     },
     {
-      "name": "Giang 69",
-      "image": "https://res.cloudinary.com/dkrifqhuk/image/upload/v1645019441/asm/icon_myi_bx755m.png",
-      "desc": "Tôm và Mỳ",
-      "categoryId": "1",
-      "id": 11
-    },
-    {
-      "name": "Giang 69",
-      "image": "https://res.cloudinary.com/dkrifqhuk/image/upload/v1645019441/asm/icon_myi_bx755m.png",
-      "desc": "Tôm và Mỳ",
-      "categoryId": "1",
-      "id": 12
-    },
-    {
       "name": "Trang giỏ hàng.",
       "image": "https://res.cloudinary.com/dkrifqhuk/image/upload/v1657093909/asm/gi%E1%BB%8F_h%C3%A0ng_n4xv65.png",
       "desc": "Khách hàng có thể xem những giản phẩm trong giỏ hàng và xóa những sản phẩm không cần. có chức năng thanh toán và yêu cầu khách hàng điền thông tin vào form,  có validate form.",
